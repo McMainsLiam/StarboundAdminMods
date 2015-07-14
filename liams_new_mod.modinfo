@@ -1,0 +1,11 @@
+{
+  "name" : "liams_new_mod",
+  "version" : "Beta v. Spirited Giraffe",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Liam McMains",
+    "version" : "1.0.0",
+    "description" : "This is a playground for me to make the game however I want to make it"
+  }
+}

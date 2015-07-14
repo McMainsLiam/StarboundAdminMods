@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "demonpick",
+    "count" : 1
+  },
+  "groups" : [ "plain", "objects", "all" ]
+}
