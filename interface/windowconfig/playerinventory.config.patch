@@ -1,0 +1,3 @@
+[
+  { "op": "add", "path": "/trashBurnTimeout", "value" : 0.0 }
+]
