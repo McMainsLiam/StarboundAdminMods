@@ -1,5 +1,5 @@
 {
-  "itemName" : "demonpick",
+  "itemName" : "adminpick",
   "inventoryIcon" : "demonpickaxeicon.png",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
@@ -20,7 +20,7 @@
   "breakSound" : "/sfx/tools/pickaxe_break.wav",
   "durability" : 100000,
   "durabilityPerUse" : 0,
-  "tileDamage" : 200,
+  "tileDamage" : 500,
   "harvestLevel" : 200,
-  "tileDamageBlunted" : 100
+  "tileDamageBlunted" : 500
 }
